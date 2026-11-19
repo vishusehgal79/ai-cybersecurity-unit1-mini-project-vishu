@@ -1,0 +1,3 @@
+region_group,Total_Records,Actual_Suspicious_Rate,Predicted_Flag_Rate
+Region_A,678,0.1947,0.0723
+Region_B,322,0.1677,0.0528

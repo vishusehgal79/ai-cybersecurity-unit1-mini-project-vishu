@@ -1,0 +1,8 @@
+{
+    "model": "MLP Neural Network",
+    "accuracy": 0.823,
+    "precision": 0.5957,
+    "recall": 0.1505,
+    "f1_score": 0.2403,
+    "training_time_seconds": 0.534
+}
